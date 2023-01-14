@@ -1,8 +1,6 @@
 # Task-Augmentation-for-Criminal-Amount-Calculation
 
-Paper Topic：
-
-Theft or Felony? Task Augmentation for Criminal Amount Calculation in Judgment Documents
+#### Paper Topic：Theft or Felony? Task Augmentation for Criminal Amount Calculation in Judgment Documents
 
 
 
