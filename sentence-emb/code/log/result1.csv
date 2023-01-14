@@ -1,0 +1,3 @@
+test_money_acc,test_label_acc,,best epoch,loss,macro-p,macro-r,macro-f,micro-p,micro-r,micro-f,label_acc,Money_acc,add-p,add-r,add-f,deter-p,deter-r,deter-f,sub-p,sub-r,sub-f,none-p,none-r,none-f,,loss,macro-p,macro-r,macro-f,micro-p,micro-r,micro-f,label_acc,Money_acc,add-p,add-r,add-f,deter-p,deter-r,deter-f,sub-p,sub-r,sub-f,none-p,none-r,none-f
+,,,14,0.08531,88.97,86.05,87.24,96.79,96.79,96.79,96.79,92.42,97.89,97.55,97.72,89.7,95.46,92.49,71.43,55.56,62.5,96.86,95.62,96.24,,
+81.5,87.52,,,,,,,,,,,,,,,,,,,,,,,,,0.62094,63.5,60.17,61.6,87.52,87.52,87.52,87.52,81.5,87.73,94.7,91.08,74.77,69.75,72.17,0.0,0.0,0.0,91.48,76.23,83.16

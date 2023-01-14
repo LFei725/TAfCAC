@@ -1,0 +1,13 @@
+max_epoch,best_epoch,use_f1,loss,macro-p,macro-r,macro-f,micro-p,micro-r,micro-f,label_acc,Money_p
+15,14,micro-f1,0.08531,88.97,86.05,87.24,96.79,96.79,96.79,96.79,92.42
+,,3708,add-1,97.89,97.55,97.72
+,,529,deter-2,89.7,95.46,92.49
+,,9,sub-3,71.43,55.56,62.5
+,,1485,none-0,96.86,95.62,96.24
+,,,,,,,,,
+,loss,macro-p,macro-r,macro-f,micro-p,micro-r,micro-f,label_acc,Money_acc
+,0.62094,63.5,60.17,61.6,87.52,87.52,87.52,87.52,81.5
+906,add-1,87.73,94.7,91.08
+119,deter-2,74.77,69.75,72.17
+3,sub-3,0.0,0.0,0.0
+366,none-0,91.48,76.23,83.16

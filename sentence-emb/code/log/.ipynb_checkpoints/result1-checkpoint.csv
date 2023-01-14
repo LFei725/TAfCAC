@@ -1,0 +1,4 @@
+test_money_acc,test_label_acc,,best epoch,loss,precision,recall,F1,label_acc,Money_acc,avg-p,avg-r,avg-f,add-p,add-r,add-f,deter-p,deter-r,deter-f,sub-p,sub-r,sub-f,none-p,none-r,none-f,,loss,precision,recall,F1,label_acc,Money_acc,avg-p,avg-r,avg-f,add-p,add-r,add-f,deter-p,deter-r,deter-f,sub-p,sub-r,sub-f,none-p,none-r,none-f
+,,,49,0.10875,95.26,95.6,95.43,95.31,89.02,81.63,78.83,79.77,97.09,96.39,96.74,83.97,91.12,87.4,50.0,33.33,40.0,95.44,94.48,94.96,,
+test_money_acc,test_label_acc,,best epoch,loss,precision,recall,F1,label_acc,Money_acc,avg-p,avg-r,avg-f,add-p,add-r,add-f,deter-p,deter-r,deter-f,sub-p,sub-r,sub-f,none-p,none-r,none-f,,loss,precision,recall,F1,label_acc,Money_acc,avg-p,avg-r,avg-f,add-p,add-r,add-f,deter-p,deter-r,deter-f,sub-p,sub-r,sub-f,none-p,none-r,none-f
+78.75,85.87,,,,,,,,,,,,,,,,,,,,,,,,,0.47548,86.35,77.88,81.9,85.87,78.75,71.5,73.03,71.05,92.07,87.2,89.57,59.44,89.92,71.57,50.0,33.33,40.0,84.46,81.69,83.06
